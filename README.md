@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GiovanniSecchia
 - 👀 I’m interested in mechatronics engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me giovannisecchia@hotmail.com
 
 <!---
